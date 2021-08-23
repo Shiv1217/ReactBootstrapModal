@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactBootstrapModal/static/css/main.a617e044.chunk.css",
+    "main.js": "/ReactBootstrapModal/static/js/main.278a29a6.chunk.js",
+    "main.js.map": "/ReactBootstrapModal/static/js/main.278a29a6.chunk.js.map",
+    "runtime-main.js": "/ReactBootstrapModal/static/js/runtime-main.451d97d8.js",
+    "runtime-main.js.map": "/ReactBootstrapModal/static/js/runtime-main.451d97d8.js.map",
+    "static/css/2.818011ed.chunk.css": "/ReactBootstrapModal/static/css/2.818011ed.chunk.css",
+    "static/js/2.db4b695e.chunk.js": "/ReactBootstrapModal/static/js/2.db4b695e.chunk.js",
+    "static/js/2.db4b695e.chunk.js.map": "/ReactBootstrapModal/static/js/2.db4b695e.chunk.js.map",
+    "static/js/3.fdb272ef.chunk.js": "/ReactBootstrapModal/static/js/3.fdb272ef.chunk.js",
+    "static/js/3.fdb272ef.chunk.js.map": "/ReactBootstrapModal/static/js/3.fdb272ef.chunk.js.map",
+    "index.html": "/ReactBootstrapModal/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/ReactBootstrapModal/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/ReactBootstrapModal/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.db4b695e.chunk.js.LICENSE.txt": "/ReactBootstrapModal/static/js/2.db4b695e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.451d97d8.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.db4b695e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.278a29a6.chunk.js"
+  ]
+}
